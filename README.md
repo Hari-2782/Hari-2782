@@ -32,7 +32,7 @@
 
 ## 📫 How to reach me
 - 🌐 Portfolio: [harisanth-vimalaraja.netlify.app](https://harisanth-vimalaraja.netlify.app/)  
-- ✍️ Medium: [@harisanth-vimalraja](https://medium.com/@harisanth-vimalraja)  
+- ✍️ Medium: [@harisanth-vimalraja](https://medium.com/@sowmiyapiranavan)  
 - 💻 GitHub: [Hari-2782](https://github.com/Hari-2782)  
 - 🧪 HackerRank: [Harisanth](https://www.hackerrank.com/profile/Harisanth)  
 - 💼 LinkedIn: [in/harisanth-vimalaraja](https://www.linkedin.com/in/harisanth-vimalaraja/)  
